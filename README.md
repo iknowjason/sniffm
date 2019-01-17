@@ -1,5 +1,5 @@
 # sniffm
-VoIP Sniffer for MGCP protocol
+# VoIP Sniffer for MGCP protocol
 A little tool to play with sniffing VoIP MGCP protocol
 Developed on the fly from a network pentest
 1.  Finds any cleartext SRTP keys and prints them
